@@ -28,7 +28,7 @@ int MyClass::classStatic = [] {
     cout << "Static class member initialized\n";
     return 300;
     }();
-
+//
 int main() {
     cout << "main() starts\n";
 
